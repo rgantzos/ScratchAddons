@@ -1,23 +1,22 @@
 {
-    "name": "Dumpster Fire",
-    "description": "The Scratch homepage is a liar with their \"Featured Projects\" section. This changes the name to the proper form, which is \"Dumpster Fire\".",
-    "credits": [
-      {
-        "name": "rgantzos",
-        "link": "https://scratch.mit.edu/users/rgantzos/"
-      }
-    ],
-    "dynamicEnable": true,
-    "dynamicDisable": true,
-    "versionAdded": "1.29.0",
-    "userscripts": [
-        {
-            "url": "userscript.js",
-            "matches": ["https://scratch.mit.edu/*"],
-            "runAtComplete": false
-          }
-    ],
-    "tags": ["website"],
-    "enabledByDefault": false
-  }
-  
+  "name": "Dumpster Fire",
+  "description": "The Scratch homepage is a liar with their \"Featured Projects\" section. This changes the name to the proper form, which is \"Dumpster Fire\".",
+  "credits": [
+    {
+      "name": "rgantzos",
+      "link": "https://scratch.mit.edu/users/rgantzos/"
+    }
+  ],
+  "dynamicEnable": true,
+  "dynamicDisable": true,
+  "versionAdded": "1.29.0",
+  "userscripts": [
+    {
+      "url": "userscript.js",
+      "matches": ["https://scratch.mit.edu/*"],
+      "runAtComplete": false
+    }
+  ],
+  "tags": ["website"],
+  "enabledByDefault": false
+}
