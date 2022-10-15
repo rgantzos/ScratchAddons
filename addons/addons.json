@@ -127,6 +127,7 @@
   "jump-to-def",
   "dumpster-fire",
   "pick-colors-from-stage",
+  "pick-colors-from-stage",
   "// NEW ADDONS ABOVE THIS ↑↑",
   "// Note: these themes need this exact order to work properly,",
   "// because the first in the list gets their CSS injected first,",
